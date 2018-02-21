@@ -1,0 +1,1 @@
+An instrument for scraping bones.

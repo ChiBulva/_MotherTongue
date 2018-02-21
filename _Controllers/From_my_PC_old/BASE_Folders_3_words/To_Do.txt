@@ -1,0 +1,12 @@
+Get the positions of every 'word' in the Z.txt file
+	How to do:	put current format into a for loop of size((len(line_1)+1)/2)
+				see line 35 in 'Make_Heiarchy.py'
+				
+Make a second python script that saves all these positions in 'Positions.txt'
+
+Make third python Script that takes 'position.txt' and makes a list of [word][descriptor][def]
+														in this format  word|descriptor|def
+														
+Make a fourth function that creates heiarchy based on [word] then repeats 
+    based on each word in [def] and makes more words
+
